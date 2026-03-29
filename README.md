@@ -68,26 +68,23 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 
 ## BLOCK DIAGRAM
+![WhatsApp Image 2026-03-26 at 7 25 57 PM](https://github.com/user-attachments/assets/1c4abfb8-6c70-40f9-9676-589b41b93326)
 
-*(Insert block diagram here)*
 
 ---
 
 ## TABULATION  
-**Transmission through Digital Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+![WhatsApp Image 2026-03-26 at 7 17 43 PM](https://github.com/user-attachments/assets/f20c4da6-ce61-4113-9c81-99b0a8b55500)
 
 ---
 
 ## MODEL GRAPH
+![WhatsApp Image 2026-03-26 at 7 26 04 PM](https://github.com/user-attachments/assets/47b4572f-299a-4565-a9b1-1c4a52ff6a05)
+![WhatsApp Image 2026-03-26 at 7 26 11 PM](https://github.com/user-attachments/assets/982ada3d-ac5b-4bf7-a48e-609aa9c9298d)
 
-*(Insert model graph here)*
 
 ---
 
 ## RESULT
-
-*(Summarize observations and conclusions here)*
+The digital fiber optic link successfully transmits signals up to a certain frequency limit, beyond which signal distortion occurs, indicating the bandwidth limitation of the system.
